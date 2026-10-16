@@ -44,5 +44,5 @@ Total = 350km
 Real distance is 355km 
 
 
-![Group members](WhatsApp Image 2026-10-16 at 13.44.15.jpeg)
+![Group members](group_members.jpeg)
 
