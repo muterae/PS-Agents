@@ -2,22 +2,23 @@
 
 
 1. Design the agent using the PEAS framework
-**Performance measure:** customer safety, fuel efficiency through least time taken for a trip, customer satisfaction, distance between towns
-**Environment:** roads, traffic laws, pedestrians and customers
-**Actuators:** steering wheel, accelerator, brake and horn
-**Sensors:** cameras and GPS
+- **Performance measure:** customer safety, fuel efficiency through least time taken for a trip, customer satisfaction, distance between towns
+- **Environment:** roads, traffic laws, pedestrians and customers
+- **Actuators:** steering wheel, accelerator, brake and horn
+- **Sensors:** cameras and GPS
 
 
 
 
-2. Develop a suitable graph and search tree
+3. Develop a suitable graph and search tree
 Search Tree showing optimal path
-![[search_tree.png]]
+![Search Tree](search_tree.png)
+
 
 
 
 Graph of towns/cities in Central Highlands, Rift Valley and Lake Victoria Basin regions of Kenya
-![[kenya_graph.png|700]]
+![Graph](kenya_graph.png)
 
 
 
@@ -43,5 +44,5 @@ Total = 350km
 Real distance is 355km 
 
 
-![[WhatsApp Image 2026-10-16 at 13.44.15.jpeg]]
+![Group members](WhatsApp Image 2026-10-16 at 13.44.15.jpeg)
 
