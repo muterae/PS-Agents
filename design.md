@@ -1,6 +1,8 @@
+# Design
+
 
 1. Design the agent using the PEAS framework
-**Performance measure:** customer safety, fuel efficiency through least time taken for a trip, customer satisfaction
+**Performance measure:** customer safety, fuel efficiency through least time taken for a trip, customer satisfaction, distance between towns
 **Environment:** roads, traffic laws, pedestrians and customers
 **Actuators:** steering wheel, accelerator, brake and horn
 **Sensors:** cameras and GPS
@@ -9,11 +11,8 @@
 
 
 2. Develop a suitable graph and search tree
-
-
-
 Search Tree showing optimal path
-![[Pasted image 20261016175921.png]]
+![[search_tree.png]]
 
 
 
